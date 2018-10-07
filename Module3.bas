@@ -41,4 +41,4 @@ Sub Reset()
     End With
     'ThisWorkbook.Worksheets(1).Range("Q8").Interior.Color = RGB(240, 155, 68)
     
-End Sub
+End Sub 
