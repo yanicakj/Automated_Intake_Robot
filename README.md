@@ -1,6 +1,6 @@
 # Intake Process Automation
 
-### Project Note: removed all sensitive information from code i.e. query, database, and intranet information
+### Project Note: removed all sensitive information from code before upload i.e. query, database, and intranet information
 
 #### Included some screenshots below of the tool.
 
