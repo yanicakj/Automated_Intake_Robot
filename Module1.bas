@@ -3,7 +3,7 @@ Option Explicit
 
 Sub Collection()
 
-    Dim conn As Object
+    Dim conn As Object 
     Dim rs As Object
     Dim rs2 As Object
     Dim username As String
